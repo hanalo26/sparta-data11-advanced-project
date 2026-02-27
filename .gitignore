@@ -1,0 +1,65 @@
+# 가상환경
+.venv/
+venv/
+env/
+
+# Python 캐시
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# 환경 설정
+.env
+
+# 기타
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# 대용량 데이터 파일
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.h5
+*.hdf5
+*.db
+*.sqlite
+
+# 모델 파일
+*.pkl
+*.pickle
+*.joblib
+*.pth
+*.pt
+*.pb
+*.onnx
+
+# 이미지/비디오 결과물
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.avi
+
+# 압축 파일
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# 대용량 폴더
+data/
+models/
+outputs/
+results/
+checkpoints/
