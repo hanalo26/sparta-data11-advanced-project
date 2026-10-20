@@ -50,8 +50,7 @@ source .venv/Scripts/activate  # Git Bash (Windows)
 - **개발 도구**: jupyter, streamlit
 
 ## 팀 협업 방법
- - 대용량 파일은 구글 드라이브에서 관리할 예정 
- https://drive.google.com/drive/folders/1IMVPgwf0CiSJpoj3M5u2CaK_VY-qpvNe?usp=drive_link
+ - 대용량 파일은 구글 드라이브에서 관리할 예정 (팀노션 참고)
  - 각자 이름으로 된 파일에서 개인 작업물을 관리하고, 공용 파일은 추후 폴더 제작하여 관리할 예정
 
 ### 새 패키지 추가 시:
